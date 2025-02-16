@@ -1,0 +1,5 @@
+print('My name Nishchaya')
+print("I have", 190, 'chocolates')
+print('Welcome \nto codingal')
+print("I have", end=' ')
+print('Two laptops')
